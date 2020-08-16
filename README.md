@@ -9,6 +9,6 @@
 - 📫 How to reach me: [tooangel@tooangel.de], [worlddriven discord]
 - ⚡ Fun fact: First time it is fun, second time shows the common denominator, third time automate it
 
-[tooangel@tooangel.de](mailto:tooangel@tooangel.de)
-[world driven](https://www.worlddriven.org)
-[worlddriven discord](https://discord.gg/RrGFHKb)
+[tooangel@tooangel.de]: mailto:tooangel@tooangel.de
+[world driven]: https://www.worlddriven.org
+[worlddriven discord]: https://discord.gg/RrGFHKb
