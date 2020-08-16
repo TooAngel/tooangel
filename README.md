@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 - 🔭 I’m currently working on [world driven](https://www.worlddriven.org)
 - 🌱 I’m currently learning a bit about electronics, home automation, selling myself and my projects
