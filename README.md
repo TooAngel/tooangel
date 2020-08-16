@@ -2,7 +2,7 @@
 
 ## I'm a husband, father, developer, maker
 
-- 🔭 I’m currently working on [world driven]
+- 🔭 I’m currently working on [world driven], robotic lawn mower, robotic outdoor sweeper, screeps, cuberite (minecraft)
 - 🌱 I’m currently learning a bit about 3d printing, electronics, home automation, selling myself and my projects
 - 🤔 I’m looking for help with [world driven]
 - 💬 Ask me about [world driven], cloudControl, cloud, my robotic lawn mower
